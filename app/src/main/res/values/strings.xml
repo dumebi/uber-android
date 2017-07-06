@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">"Uber "</string>
+    <string name="parse_app_id">myAppId</string>
+    <string name="parse_client_key">myMasterKey</string>
+    <string name="title_activity_user_location">Location</string>
+    <string name="title_activity_view_rider_location">Map</string>
+    <string name="title_activity_maps">Map</string>
+</resources>
